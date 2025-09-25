@@ -30,6 +30,8 @@ Once completed, you can view your model and play back the imported animations.
 
 Animations can be viewed in the Action Editor when the armature is selected.
 
+<img src="./images/action_list.png">
+
 How do you get to the Action Editor? Go to the "Animation" workspace. Then, click on "Dope Sheet" and select "Action Editor" from the popup list.
 
 **LIMITATIONS:**
