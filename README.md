@@ -2,7 +2,7 @@
 
 Thanks for checking out this Blender/Mixamo quality of life tool!
 
-**WHAT IS ITS PURPOSE:**
+## WHAT IS ITS PURPOSE:
 
 You just viewed the Mixamo website, saw some great animations and excitedly downloaded an animation pack! Then, you imported the animations into Blender and they all ended up with the same name followed by .001, .002, etc...
 
@@ -10,7 +10,7 @@ How are you going to tell animations apart and what are you to do with all of th
 
 This addon automatically gives animations the names of their source FBX files. It also removes extraneous armatures. So, you end up with a clean Outliner and intuitively named animations.
 
-**HOW TO USE IT:**
+## HOW TO USE IT:
 
 Install the Blixamo addon. (See instructions below.)
 
@@ -30,13 +30,13 @@ Animations are referred to as "Actions" in Blender and they can be viewed in the
 
 How do you get to the Action Editor? Go to the "Animation" workspace. Then, click on "Dope Sheet" and select "Action Editor" from the popup list.
 
-**REQUIREMENTS**
+## REQUIREMENTS
 
 This addon has been tested in Blender 3.6.1 and 4.5.
 
-**HOW TO INSTALL:**
+## HOW TO INSTALL:
 
-Click the green "Code" button at the top center of the page and choose "Download ZIP". Alternatively, Navigate to "Releases>Tags" in the right-hand panel and download the zip file for the latest tag. **THEN**, extract "blixamo_import_helper.py" to your desktop. Next, open Blender, go to "Settings>Add-ons" and...
+Click the green "Code" button at the top center of the page and choose "Download ZIP". Alternatively, navigate to "Releases>Tags" in the right-hand panel and download the zip file for the latest tag. **THEN**, extract "blixamo_import_helper.py" to your desktop. Next, open Blender, go to "Settings>Add-ons" and...
 
 In older versions of Blender, simply click "Install" and install the file from your desktop.
 
@@ -44,7 +44,7 @@ In newer Blender versions, click the chevron arrow pulldown menu in the upper ri
 
 Finally, enable the checkbox next to the newly installed addon in the Add-ons panel.
 
-**LIMITATIONS:**
+## LIMITATIONS:
 
 This tool is meant to import MIXAMO FBX FILES. It is not intended for FBX from other sources.
 
@@ -60,7 +60,7 @@ This tool is not designed to import FBX files that contain more than 1 animation
 
 This tool uses the default settings on Blender's FBX importer. It is possible that the file you are importing may not be suitable for the default settings. Perhaps, in the future, the FBX import settings could be exposed in the UI.
 
-**TROUBLESHOOTING:**
+## TROUBLESHOOTING:
 
 How can you tell which Mixamo FBX file contains the character model? The file may have the same name as the character. The filesize should also be much larger than an animation-only file. Animations are likely to be kilobytes in size while Models are megabytes in size.
 
