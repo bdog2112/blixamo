@@ -36,7 +36,7 @@ This addon has been tested in Blender 3.6.1 and 4.5.
 
 **HOW TO INSTALL:**
 
-Click the green "Code" button at the top center of the page and choose "Download ZIP". Alternatively, Navigate to "Releases>Tags" in the right-hand panel and download the zip file for the latest tag. THEN, extract "blixamo_import_helper.py" to your desktop. Next, open Blender, go to "Settings>Add-ons" and...
+Click the green "Code" button at the top center of the page and choose "Download ZIP". Alternatively, Navigate to "Releases>Tags" in the right-hand panel and download the zip file for the latest tag. **THEN**, extract "blixamo_import_helper.py" to your desktop. Next, open Blender, go to "Settings>Add-ons" and...
 
 In older versions of Blender, simply click "Install" and install the file from your desktop.
 
